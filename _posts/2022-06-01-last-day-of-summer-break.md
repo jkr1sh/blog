@@ -27,7 +27,7 @@ I am going to set aside 30 minutes every friday after coming back from ALLEN eve
 
 I don't really think very many people are going to be reading this blog but to those that end up here in my little place in the interwebs, leave a [message](https://jkr1sh.github.io/blog/contact.html) *you can even do it anonymously*. I'd find that to be really cool :)
 
-I am going to read*(I'm halfway through 'Why we Sleep?' by Matthew Walker)* for a while now and then head to bed, gotta get my sleep to fit in my routine too.
+I am going to read*(I'm halfway through 'Why we Sleep?' by Matthew Walker)* for a while now and then head to bed, gotta get my sleep to fit in my routine too. Oh yeah I will prolly also write a post about my routine once I get it dialed in.
 
 
 *~jkr1sh*
