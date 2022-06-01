@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ThankYou for sending a Message!!!
+title: Thank You for sending a Message!!!
 ---
 
->Return [Home](/)
+>Return [Home](/) 
 
 
 ---
