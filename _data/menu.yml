@@ -6,13 +6,13 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: Life Posts
+  - title: storytime posts
     post_list:
       limit: 3
-      category: life
+      category: storytime
       show_more: true
       show_more_text: See more posts...
-      show_more_url: life-archive.html
+      show_more_url: storytime-archive.html
 
   - title: info
     entries:
@@ -22,7 +22,7 @@ entries:
   
   - title: send a message
     url: contact
-    
+
   - title: links
     url: links
 

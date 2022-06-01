@@ -1,6 +1,6 @@
 ---
 layout: post
-category: life
+category: meta
 ---
 
 >Hello there!
