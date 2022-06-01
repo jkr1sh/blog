@@ -14,10 +14,10 @@ finished working out at 19;30, the new routine took time to figure out, had me a
 Anyway let's get to it, today is the last day of summer break. From tommorow it's gonna be full steam ahead for the next *2 years*. Put in all the work that is humanly possible to get a *sub-200* AIR in JEE Mains & Advanced.
 
 The subjects that I have are:
-	- Physics
-	- Chemistry
-	- Math
-	- Computer Science
+- Physics
+- Chemistry
+- Math
+- Computer Science
 
 *Prolly English too*
 
