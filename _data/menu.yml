@@ -11,7 +11,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: 'Life' Posts
+  - title: Life Posts
     post_list:
       limit: 3
       category: life
