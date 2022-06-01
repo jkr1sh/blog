@@ -16,7 +16,7 @@ entries:
 
   - title: info
     entries:
-      - title: this is a blog "written by <a href='https://jkr1sh.github.io'>jkr1sh</a>"
+      - title: this is a blog written by <a href='https://jkr1sh.github.io'>jkr1sh</a>
       - title: about blog
         url: about.html
 
