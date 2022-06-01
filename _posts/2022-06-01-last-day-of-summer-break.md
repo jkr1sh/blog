@@ -21,7 +21,7 @@ The subjects that I have are:
 
 *Prolly English too*
 
-I've decided to take this combination of NPS+ALLEN to make sure my head is in the game at all times.
+I've decided to take this incredibly diehard combination of NPS+ALLEN to make sure my head is in the game at all times.
 
 I am going to set aside 30 minutes every friday after coming back from ALLEN every week for writing a post for this blog. Could be general updates, musings that I have noted down throughout that week or stories from my past.
 
