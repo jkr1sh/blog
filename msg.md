@@ -3,7 +3,7 @@ layout: page
 title: Thank You for sending a Message!!!
 ---
 
->Return [Home](/) 
+>Return [Home](/blog) 
 
 
 ---
