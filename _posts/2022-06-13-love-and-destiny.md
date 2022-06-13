@@ -21,7 +21,7 @@ Sometime he fucks up too, or perhaps you fail to see what the omen actually mean
 
 I haven't found my Fatima yet...but it's time to let go of the merchant's daughter and go forth to seek the soul of the world.
 
-There is a rightness to pursuing one's own legend no matter how hard it gets, it's inarguably the most important choice you and I have to make, yet when it comes to making that choice people fuck up so bad, cause they are blinded by supposedly good things in life likelove or not so good things like fear or anxiety in regards to the outcome of embarking on this journey. One thing or the other gets in the way of you pursuing your personal legend, but you have to let go of it by understanding the complete unimportance of fear and death in this journey and only focus on the connection you have with the soul of the world.
+There is a rightness to pursuing one's own legend no matter how hard it gets, it's inarguably the most important choice you and I have to make, yet when it comes to making that choice people fuck up so bad, cause they are blinded by supposedly good things in life like love or not so good things like fear or anxiety of the outcome of embarking on this journey. One thing or the other gets in the way of you pursuing your personal legend, but you have to let go of it by understanding the complete unimportance of fear and death in this journey and only focus on the connection you have with the soul of the world.
 
 You must also realize that your life improves and you start seeing the value of living through the purpose and engagement that the pursuit of your personal legend gives you everyday.
 
